@@ -5,8 +5,8 @@
 #
 
 
-def funkcja(name, surmane):
-    msg = f"Ceść, {name} {surmane}!"
+def funkcja(name, surnane):
+    msg = f"Cześć, {name} {surnane}!"
     return msg
 
 wiadomosc = funkcja("Jan", "Nowak")
