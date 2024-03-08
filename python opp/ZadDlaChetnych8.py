@@ -50,7 +50,7 @@ parser.add_argument("--city", help="Filter breweries by city")
 args = parser.parse_args()
 city = args.city
 
-breweries = get_breweries(city)
+breweries = get_breweries('Portland')
 
 if breweries:
     for index, brewery in enumerate(breweries, 1):
