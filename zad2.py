@@ -6,14 +6,17 @@
 
 
 liczby = [1, 4, 7, 70, 123]
+
+
 def funkcja1(lista):
     ret = []
     for liczba in lista:
-       ret.append(liczba*2)
+        ret.append(liczba * 2)
     return ret
 
+
 def funkcja2(lista):
-    ret = [liczba*2 for liczba in lista]
+    ret = [liczba * 2 for liczba in lista]
     return ret
 
 
