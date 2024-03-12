@@ -4,8 +4,10 @@
 # zmiennej, a następnie wykorzystując warunek logiczny wyświetlić prawidłowy
 # tekst "Liczba parzysta" / "Liczba nieparzysta"
 
+
 def funkcja(liczba):
     return liczba % 2 == 0
+
 
 czyParzysta = funkcja(4)
 

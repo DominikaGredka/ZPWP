@@ -9,5 +9,6 @@ def funkcja(name, surnane):
     msg = f"Cześć, {name} {surnane}!"
     return msg
 
+
 wiadomosc = funkcja("Jan", "Nowak")
 print(wiadomosc)

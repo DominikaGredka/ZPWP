@@ -3,10 +3,12 @@
 # duplikaty, każdy element podnieść do potęgi 3 stopnia, a następnie zwrócić
 # powstałą listę.
 
+
 def funkcja(lista1, lista2):
     nowaLista = list(set(lista1 + lista2))
-    wynik =  [x**3 for x in nowaLista]
+    wynik = [x**3 for x in nowaLista]
     return wynik
+
 
 pl = [1, 2, 4]
 dl = [2, 5, 10]
