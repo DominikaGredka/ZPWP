@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed626dab-ac52-4c09-a8f6-e3d6d69df6ce" name="Changes" comment="zadania oop">
-      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pycodestyle_myworkflow.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/Zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/Zad1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/Zad3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/Zad3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/ZadDlaChetnych7.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/ZadDlaChetnych7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/ZadDlaChetnych8.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/ZadDlaChetnych8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python opp/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python opp/zad2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +162,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ZPWP$Zad1.coverage" NAME="Zad1 Coverage Results" MODIFIED="1709656611914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
     <SUITE FILE_PATH="coverage/ZPWP$test.coverage" NAME="test Coverage Results" MODIFIED="1709655612229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
-    <SUITE FILE_PATH="coverage/ZPWP$ZadDlaChetnych8.coverage" NAME="ZadDlaChetnych8 Coverage Results" MODIFIED="1709856222483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
+    <SUITE FILE_PATH="coverage/ZPWP$ZadDlaChetnych8.coverage" NAME="ZadDlaChetnych8 Coverage Results" MODIFIED="1710252625644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
     <SUITE FILE_PATH="coverage/ZPWP$Zad2.coverage" NAME="Zad2 Coverage Results" MODIFIED="1709071512180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
     <SUITE FILE_PATH="coverage/ZPWP$Zad4.coverage" NAME="Zad4 Coverage Results" MODIFIED="1709072395306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
     <SUITE FILE_PATH="coverage/ZPWP$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1709656855839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\dgred\ZPWP\.idea" />
