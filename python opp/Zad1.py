@@ -6,17 +6,18 @@
 
 from statistics import mean
 
+
 class Student:
     def __init__(self, name, marks):
         self.name = name
         self.marks = marks
 
-    def is_passed(self) ->bool:
+    def is_passed(self) -> bool:
         return mean(self.marks) > 50
 
 
-student1 = Student('Jan', [50, 51, 52])
-student2 = Student('Tomasz', [29, 45, 60])
+student1 = Student("Jan", [50, 51, 52])
+student2 = Student("Tomasz", [29, 45, 60])
 
 print(student2.is_passed())
 print(student1.is_passed())
